@@ -86,3 +86,28 @@
 [23Jan2025 02:21:21.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonnyMorales lost connection: Timed out
 [23Jan2025 02:21:21.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonnyMorales left the game
 [23Jan2025 02:21:21.648] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tonnyMorales
+[23Jan2025 02:23:53.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[23Jan2025 02:24:03.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonnyMorales[/127.173.181.166:60335] logged in with entity id 1687 at (15.5, 63.0, -21.5)
+[23Jan2025 02:24:03.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonnyMorales joined the game
+[23Jan2025 02:24:03.661] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tonnyMorales (18)
+[23Jan2025 02:24:03.662] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tonnyMorales
+[23Jan2025 02:24:22.329] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ad0ea02-70a9-3ad2-b59d-eb54bfeb5382
+[23Jan2025 02:24:23.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ad0ea02-70a9-3ad2-b59d-eb54bfeb5382
+[23Jan2025 02:24:23.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player tonnyMorales (3ad0ea02-70a9-3ad2-b59d-eb54bfeb5382) successfully connected to voice chat
+[23Jan2025 02:24:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dale a la v
+[23Jan2025 02:24:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> y configurate las cosas que te dicen
+[23Jan2025 02:26:42.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:55663] logged in with entity id 2030 at (6.5, 63.0, -37.5)
+[23Jan2025 02:26:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[23Jan2025 02:26:43.366] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
+[23Jan2025 02:26:43.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
+[23Jan2025 02:26:44.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 97923b0a-25f4-3d49-b72c-ab5e412188be
+[23Jan2025 02:26:45.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 97923b0a-25f4-3d49-b72c-ab5e412188be
+[23Jan2025 02:26:45.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be) successfully connected to voice chat
+[23Jan2025 02:28:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
+[23Jan2025 02:28:37.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fcb33033-a2d1-3bae-abae-bbc169e822af timed out
+[23Jan2025 02:28:37.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalej
+[23Jan2025 02:28:37.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[23Jan2025 02:28:45.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
+[23Jan2025 02:28:45.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[23Jan2025 02:28:46.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[23Jan2025 02:28:46.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
