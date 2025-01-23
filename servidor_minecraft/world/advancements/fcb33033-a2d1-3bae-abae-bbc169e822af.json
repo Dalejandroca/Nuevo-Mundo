@@ -1,13 +1,26 @@
 {
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_chicken": "2025-01-23 01:05:29 +0000"
+      "unlock_right_away": "2025-01-23 01:00:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_porkchop": "2025-01-23 01:07:06 +0000"
+      "minecraft:beach": "2025-01-23 01:05:36 +0000",
+      "minecraft:forest": "2025-01-23 01:00:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-23 01:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-23 01:05:29 +0000"
     },
     "done": true
   },
@@ -29,15 +42,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "unlock_right_away": "2025-01-23 01:00:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-23 01:05:26 +0000"
+      "has_porkchop": "2025-01-23 01:07:06 +0000"
     },
     "done": true
   },
@@ -53,12 +60,30 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:beach": "2025-01-23 01:05:36 +0000",
-      "minecraft:forest": "2025-01-23 01:00:14 +0000"
+      "minecraft:zombie": "2025-01-23 02:14:49 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-23 02:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2025-01-23 02:17:41 +0000",
+      "porkchop": "2025-01-23 02:14:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-23 02:14:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
