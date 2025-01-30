@@ -22,4 +22,10 @@
 	#Determining the base exhaustion for slashblade's self-repair.
 	#Range: 1.0E-4 ~ 1.7976931348623157E308
 	bewitched_hunger_exhaustion = 0.05
+	#Determines whether to enable slashblade's friendly fire.
+	#If enable, player can attack friendly entity with SlashBlade.
+	friendly_enable = false
+	#Determining the proud soul cost for summon blade arts.
+	#Range: > 1
+	summon_blade_art_cost = 20
 
