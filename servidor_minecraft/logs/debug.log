@@ -7468,3 +7468,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 18:33:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> intercambie mejor dicho
 [30Jan2025 18:33:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pero no se a que precio ponerlas
 [30Jan2025 18:33:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> eso
+[30Jan2025 18:33:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pues, 32 de tierra una moneda, la más básica
+[30Jan2025 18:34:10.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> supongo, despues hay q ajustar todos los precios
+[30Jan2025 18:34:31.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que es eso ariel?
+[30Jan2025 18:34:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> esto?
+[30Jan2025 18:34:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
+[30Jan2025 18:34:52.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ni idea, apareció en mi inventario
+[30Jan2025 18:34:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> golpeame a ver
+[30Jan2025 18:35:05.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 18:35:05.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 18:35:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Tiny Proud Soul]
+[30Jan2025 18:35:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Slash Blade]
+[30Jan2025 18:35:24.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> magia
+[30Jan2025 18:35:29.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no le digas a nadie
+[30Jan2025 18:35:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya veremos q hace esto
+[30Jan2025 18:35:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ok
+[30Jan2025 18:35:55.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sirve pa crear knife of be
+[30Jan2025 18:36:03.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lo de las medicinas como funciona?
+[30Jan2025 18:36:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ostia
+[30Jan2025 18:36:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya vi el name del mod
+[30Jan2025 18:36:20.591] [Server thread/INFO] [Easy NPC/]: Opening menu 9ceda8c1-bb81-47dd-ac4f-4835a5436857 for npc 809d90d4-bcf8-4f9d-b093-08e473be7169 and player ServerPlayer['Asriel'/1231, l='ServerLevel[world]', x=194.30, y=85.00, z=48.90] with DialogMenuHandler{displayName=literal{Laura}[style={color=#FFFFFF}]}
+[30Jan2025 18:36:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> la medicina es para algo especial
+[30Jan2025 18:36:31.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no se para que es
+[30Jan2025 18:36:34.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dice q necesito tomarla
+[30Jan2025 18:36:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dice, i need to take my meds
+[30Jan2025 18:36:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has reached the goal [Feeling Watched]
+[30Jan2025 18:36:57.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ay
+[30Jan2025 18:37:04.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> donde dice eso?
+[30Jan2025 18:37:17.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q esta pasando
+[30Jan2025 18:37:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> escuchaste eso?
+[30Jan2025 18:37:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no tengo el micro puesto
+[30Jan2025 18:37:42.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no
+[30Jan2025 18:37:44.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> en el juego
+[30Jan2025 18:37:49.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por eso
+[30Jan2025 18:37:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> se escuchó algo
+[30Jan2025 18:38:46.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a ti tambien te salen carteles de la nada?
+[30Jan2025 18:38:57.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no
+[30Jan2025 18:39:12.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[30Jan2025 18:39:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[30Jan2025 18:39:12.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Asriel
+[30Jan2025 18:39:12.434] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[30Jan2025 18:40:05.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 18:40:05.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 18:40:05.479] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2024ms or 40 ticks
+[30Jan2025 18:40:40.413] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 60 messages to dispatch.
+[30Jan2025 18:40:40.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4abea22a[id=<null>,name=Asriel,properties={},legacy=false] (/127.68.185.28:47503) lost connection: Disconnected
+[30Jan2025 18:41:37.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[30Jan2025 18:41:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[30Jan2025 18:41:37.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dalej
+[30Jan2025 18:41:37.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej

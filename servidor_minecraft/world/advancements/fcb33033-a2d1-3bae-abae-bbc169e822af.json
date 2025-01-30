@@ -103,6 +103,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-01-30 18:31:24 +0000",
       "minecraft:plains": "2025-01-30 05:00:07 +0000"
     },
     "done": false
@@ -122,6 +123,30 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-01-30 18:35:19 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-01-30 18:35:19 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-30 18:39:59 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-01-30 18:36:54 +0000"
     },
     "done": true
   },
