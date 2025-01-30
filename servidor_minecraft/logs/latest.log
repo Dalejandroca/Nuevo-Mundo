@@ -1136,3 +1136,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 18:21:37.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
 [30Jan2025 18:21:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
 [30Jan2025 18:21:37.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[30Jan2025 18:26:14.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.68.185.28:49077] logged in with entity id 1119 at (182.67537381621264, 95.0, 16.026892336118223)
+[30Jan2025 18:26:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[30Jan2025 18:26:14.426] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[30Jan2025 18:26:14.427] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[30Jan2025 18:26:15.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[30Jan2025 18:26:15.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[30Jan2025 18:26:41.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/309, l='ServerLevel[world]', x=249.43, y=83.00, z=91.90] died, message: 'Unemployed was struck by lightning'
+[30Jan2025 18:27:44.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[30Jan2025 18:27:44.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[30Jan2025 18:27:44.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[30Jan2025 18:28:41.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.171.205.105:57333] logged in with entity id 1231 at (182.03376924404452, 95.0, 16.030724317162854)
+[30Jan2025 18:28:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[30Jan2025 18:28:41.520] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[30Jan2025 18:28:41.520] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[30Jan2025 18:28:42.061] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[30Jan2025 18:28:42.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[30Jan2025 18:29:01.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:46725] logged in with entity id 1319 at (205.0876438544666, 85.0, 45.568358298847855)
+[30Jan2025 18:29:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[30Jan2025 18:29:01.991] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[30Jan2025 18:29:06.549] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[30Jan2025 18:29:06.550] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[30Jan2025 18:29:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Tiny Proud Soul]
+[30Jan2025 18:29:51.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Slash Blade]
+[30Jan2025 18:29:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estas?
+[30Jan2025 18:30:02.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
+[30Jan2025 18:30:07.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pq sale el signo ese
+[30Jan2025 18:30:13.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> como si estuvieras desconectado
+[30Jan2025 18:30:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que bien se ve cuando estan escribiendo
+[30Jan2025 18:30:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sisisisi
+[30Jan2025 18:30:36.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ño
+[30Jan2025 18:31:04.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no me deja usar el micro
+[30Jan2025 18:31:23.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> wtf
+[30Jan2025 18:31:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por que mierda el voicechat esta desactivado
+[30Jan2025 18:31:38.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> me sale un signo como si no estuviera enchufado abajo a la derecha
+[30Jan2025 18:31:44.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
+[30Jan2025 18:31:55.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> eso es que no esta funcionando el voice chat
+[30Jan2025 18:32:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tu pc puede aguantar pa activarlo?
+[30Jan2025 18:32:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ahora mismo no creo
+[30Jan2025 18:32:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> XDDD
+[30Jan2025 18:32:32.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ta bien
+[30Jan2025 18:32:39.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a eso me pongo despues cuando haga lo de los npc
+[30Jan2025 18:32:43.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> okok
+[30Jan2025 18:32:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por cierto
+[30Jan2025 18:33:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ayudame a decidir el precio de la moneda basica
+[30Jan2025 18:33:25.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> voy a poner un npc que venda monedas
+[30Jan2025 18:33:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> intercambie mejor dicho
+[30Jan2025 18:33:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pero no se a que precio ponerlas
+[30Jan2025 18:33:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> eso
