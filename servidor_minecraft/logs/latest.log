@@ -1215,3 +1215,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 03:35:15.525] [Server thread/INFO] [Easy NPC/]: Opening menu 140d8bed-395c-4f01-9787-2af156482031 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Dalej'/2505, l='ServerLevel[world]', x=184.93, y=87.00, z=40.16] with EditorMenuHandler{editorType=ACTION_DATA_ENTRY, easyNPC=Humanoid['Puerco'/11, l='ServerLevel[world]', x=181.50, y=87.00, z=40.50], screenData=ScreenData[uuid=0573b8cf-0cb4-446c-b33b-290a46c918f6, dialogId=22a7c852-1492-3a34-af4c-fefee77283f6, dialogButtonId=17f3db99-c424-d2fc-c3ee-d59a3c309a9f, actionDataEntryId=2465a4bf-105f-3981-aef2-5953f9625b69, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]}},ActionEventType:"NONE",ConfigurationType:"NONE",DialogData:{Default:"wero1",DialogDataSet:[{Buttons:[{Actions:[{Type:"OPEN_TRADING_SCREEN"}],Name:"Quiero cabezas",Type:"DEFAULT"}],Name:"Wero1",Texts:[{Text:"Que tal, buscas algo que hacer?"},{Text:"Buen dia para salir a explorar"},{Text:"Coleccionar Cabezas es dificil, ve con cuidado"}]}],Type:"CUSTOM"},EditorType:"DIALOG_BUTTON"}]}
 [31Jan2025 03:39:23.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has completed the challenge [How did we get so rich?]
 [31Jan2025 03:40:04.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 1000]
+[31Jan2025 03:43:20.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 03:43:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 03:43:20.019] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 03:47:35.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@32a4af07[id=<null>,name=Dalej,properties={},legacy=false] (/127.226.10.246:37823): Took too long to log in
+[31Jan2025 03:47:35.706] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32a4af07[id=<null>,name=Dalej,properties={},legacy=false] (/127.226.10.246:37823) lost connection: Took too long to log in
+[31Jan2025 03:47:35.755] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jan2025 03:48:25.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:41543] logged in with entity id 3545 at (185.50478314887766, 87.0, 46.16333462663947)
+[31Jan2025 03:48:25.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 03:48:25.925] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 03:48:25.926] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 03:48:33.138] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 03:48:33.138] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 03:51:12.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 1000]
