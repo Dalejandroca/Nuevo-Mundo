@@ -1120,3 +1120,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 03:10:59.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [31Jan2025 03:10:59.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [31Jan2025 03:10:59.984] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 03:19:23.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:46083] logged in with entity id 1419 at (184.63463907422025, 87.0, 45.662298696464084)
+[31Jan2025 03:19:23.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 03:19:23.449] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 03:19:23.449] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 03:19:23.463] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2109ms or 42 ticks
+[31Jan2025 03:19:24.530] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 03:19:24.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 03:19:53.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 03:19:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 03:19:53.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 03:20:52.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:38925] logged in with entity id 1638 at (184.63463907422025, 87.0, 45.662298696464084)
+[31Jan2025 03:20:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 03:20:52.524] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 03:20:52.525] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 03:20:52.948] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 03:20:52.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 03:21:28.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
+[31Jan2025 03:21:33.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
