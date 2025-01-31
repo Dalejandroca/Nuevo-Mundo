@@ -9057,3 +9057,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 03:48:33.138] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dalej
 [31Jan2025 03:48:33.138] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
 [31Jan2025 03:51:12.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 1000]
+[31Jan2025 03:52:44.626] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=33, y=-30, z=270}
+[31Jan2025 03:52:44.627] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=34, y=-30, z=270}
+[31Jan2025 03:52:50.513] [Worker-Main-67/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[31Jan2025 03:52:50.513] [Worker-Main-67/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$2893a3$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[31Jan2025 03:52:50.525] [Worker-Main-67/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[31Jan2025 03:52:50.528] [Worker-Main-67/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Jan2025 03:52:50.529] [Worker-Main-67/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Jan2025 03:52:51.534] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[31Jan2025 03:52:53.405] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:tanuki
+[31Jan2025 03:52:53.795] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[31Jan2025 03:53:22.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 03:53:22.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 03:54:50.683] [Server thread/INFO] [Easy NPC/]: Opening menu f0c7f19d-0961-44a2-9002-07d54e671fa1 for npc 81b573dc-fd79-468a-9943-d72f72c5924e and player ServerPlayer['Dalej'/3545, l='ServerLevel[world]', x=170.52, y=88.00, z=78.70] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Clocky]}]
+[31Jan2025 03:54:53.082] [Server thread/INFO] [Easy NPC/]: Opening menu 166b00dc-3273-4841-b96f-a869a3311c15 for npc 81b573dc-fd79-468a-9943-d72f72c5924e and player ServerPlayer['Dalej'/3545, l='ServerLevel[world]', x=170.52, y=88.00, z=78.70] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Clocky]}]
+[31Jan2025 03:54:55.201] [Server thread/INFO] [Easy NPC/]: Opening menu af902dc9-e37a-4eef-ad63-8540021284be for npc 81b573dc-fd79-468a-9943-d72f72c5924e and player ServerPlayer['Dalej'/3545, l='ServerLevel[world]', x=170.52, y=88.00, z=78.70] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Clocky]}]
+[31Jan2025 03:56:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Acquire Hardware]
+[31Jan2025 03:58:22.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 03:58:22.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 03:59:34.925] [Server thread/INFO] [Easy NPC/]: Opening menu 7a08de4f-6b44-45c8-9da8-d59bd13e0483 for npc 81b573dc-fd79-468a-9943-d72f72c5924e and player ServerPlayer['Dalej'/3545, l='ServerLevel[world]', x=170.52, y=88.00, z=78.70] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Clocky]}]
+[31Jan2025 03:59:36.041] [Server thread/INFO] [Easy NPC/]: Opening menu f3de48d5-c94d-4fc5-91a5-9ce8751b60c9 for npc 81b573dc-fd79-468a-9943-d72f72c5924e and player ServerPlayer['Dalej'/3545, l='ServerLevel[world]', x=170.52, y=88.00, z=78.70] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Clocky]}]
+[31Jan2025 03:59:37.419] [Server thread/INFO] [Easy NPC/]: Opening menu 7a8a02f2-6406-4e64-8ef5-91859e93411a for npc 81b573dc-fd79-468a-9943-d72f72c5924e and player ServerPlayer['Dalej'/3545, l='ServerLevel[world]', x=170.52, y=88.00, z=78.70] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Clocky]}]
+[31Jan2025 03:59:55.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Isn't It Iron Pick]
+[31Jan2025 04:00:23.156] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[31Jan2025 04:00:23.156] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[31Jan2025 04:00:23.158] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[31Jan2025 04:00:57.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 04:00:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 04:00:57.219] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dalej
+[31Jan2025 04:00:57.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
