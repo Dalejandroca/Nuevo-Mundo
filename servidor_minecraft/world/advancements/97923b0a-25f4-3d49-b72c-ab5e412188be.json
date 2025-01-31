@@ -434,9 +434,39 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 21:46:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 21:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-01-31 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-01-31 21:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-31 21:45:24 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 21:46:26 +0000"
     },
     "done": true
   },
