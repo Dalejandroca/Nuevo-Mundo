@@ -138,15 +138,15 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-01-30 18:39:59 +0000"
-    },
-    "done": true
-  },
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-01-30 18:36:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-30 18:39:59 +0000"
     },
     "done": true
   },
