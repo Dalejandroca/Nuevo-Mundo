@@ -1307,3 +1307,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 04:42:17.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [31Jan2025 04:42:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [31Jan2025 04:42:17.982] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 04:46:15.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:32773] logged in with entity id 6711 at (167.08285097639788, 82.0, -47.25740827636594)
+[31Jan2025 04:46:15.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 04:46:16.012] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 04:46:16.013] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 04:46:25.252] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 04:46:25.253] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 04:48:39.440] [Server thread/INFO] [Easy NPC/]: Opening menu 0652a1e2-ca8d-4f56-b731-df238f89d7a9 for npc 5d970ef6-1cac-4519-ac50-8027559a5119 and player ServerPlayer['Dalej'/6711, l='ServerLevel[world]', x=167.08, y=82.00, z=-47.26] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Asusena]}]
+[31Jan2025 04:48:49.088] [Server thread/INFO] [Easy NPC/]: Opening menu cc86025e-5ae4-4b43-acd6-170a24cefdf9 for npc 5d970ef6-1cac-4519-ac50-8027559a5119 and player ServerPlayer['Dalej'/6711, l='ServerLevel[world]', x=167.08, y=82.00, z=-47.26] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Asusena]}]
+[31Jan2025 04:49:46.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 04:49:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 04:49:46.482] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 04:51:13.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:50819] logged in with entity id 7022 at (167.08285097639788, 82.0, -47.25740827636594)
+[31Jan2025 04:51:13.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 04:51:13.667] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 04:51:13.667] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 04:51:23.109] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 04:51:23.109] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 04:51:23.122] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 11022ms or 220 ticks
+[31Jan2025 04:51:23.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9017ms or 180 ticks behind
