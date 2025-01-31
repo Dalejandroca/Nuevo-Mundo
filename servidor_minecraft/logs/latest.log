@@ -1242,3 +1242,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 04:00:57.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [31Jan2025 04:00:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [31Jan2025 04:00:57.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 04:06:07.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:42885] logged in with entity id 4152 at (171.96031925156333, 88.0, 70.26090524405569)
+[31Jan2025 04:06:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 04:06:07.462] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 04:06:07.463] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 04:06:09.787] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 04:06:09.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 04:07:45.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
+[31Jan2025 04:08:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 1000]
+[31Jan2025 04:09:13.837] [Server thread/INFO] [Easy NPC/]: Opening menu 748c9146-ecb8-48b1-88f6-06ad5f19a940 for npc 2d7b3e33-5bc6-4f54-99f5-c7c20b57bf8d and player ServerPlayer['Dalej'/4152, l='ServerLevel[world]', x=201.46, y=88.00, z=86.61] with DialogMenuHandler{displayName=literal{Profesor Broli}[style={color=#FFFFFF}]}
+[31Jan2025 04:09:23.190] [Server thread/INFO] [Easy NPC/]: Opening menu 6c88693f-2e20-4177-a3f2-1d8faed1209d for npc 2d7b3e33-5bc6-4f54-99f5-c7c20b57bf8d and player ServerPlayer['Dalej'/4152, l='ServerLevel[world]', x=201.46, y=88.00, z=86.61] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Profesor Broli]}]
+[31Jan2025 04:09:24.978] [Server thread/INFO] [Easy NPC/]: Opening menu 5a66a27c-e347-4ec8-a0af-ffdb2d560c0f for npc 2d7b3e33-5bc6-4f54-99f5-c7c20b57bf8d and player ServerPlayer['Dalej'/4152, l='ServerLevel[world]', x=201.46, y=88.00, z=86.61] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Profesor Broli]}]
+[31Jan2025 04:09:26.838] [Server thread/INFO] [Easy NPC/]: Opening menu ad0ebe6a-f4d4-403b-82ab-a72ed146cb01 for npc 2d7b3e33-5bc6-4f54-99f5-c7c20b57bf8d and player ServerPlayer['Dalej'/4152, l='ServerLevel[world]', x=201.46, y=88.00, z=86.61] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Profesor Broli]}]
+[31Jan2025 04:11:07.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 04:11:07.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 04:11:07.974] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
