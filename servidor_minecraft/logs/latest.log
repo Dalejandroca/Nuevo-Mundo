@@ -1186,3 +1186,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 20:31:39.844] [Server thread/INFO] [Easy NPC/]: Opening menu 6184d001-24af-4b26-9844-1cc8e35bca4a for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['MandyXMaster687'/2127, l='ServerLevel[world]', x=178.48, y=87.00, z=44.71] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
 [31Jan2025 20:33:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Forbidden Fruit]
 [31Jan2025 20:35:19.472] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
+[31Jan2025 20:41:38.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[31Jan2025 20:41:38.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[31Jan2025 20:41:38.949] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[31Jan2025 20:42:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Jan2025 20:42:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jan2025 20:42:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jan2025 20:42:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jan2025 20:42:20.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Jan2025 20:42:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[31Jan2025 20:42:21.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[31Jan2025 20:42:21.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[31Jan2025 20:42:21.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Jan2025 20:42:21.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[31Jan2025 20:42:21.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Jan2025 20:42:21.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[31Jan2025 20:42:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jan2025 20:42:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[31Jan2025 20:42:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[31Jan2025 20:42:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[31Jan2025 20:42:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jan2025 20:42:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[31Jan2025 20:42:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Jan2025 20:42:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[31Jan2025 20:42:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Jan2025 20:42:21.198] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Jan2025 20:42:21.200] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Jan2025 20:42:21.202] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[31Jan2025 20:42:21.203] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Jan2025 20:42:21.222] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
