@@ -1138,3 +1138,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 03:20:52.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
 [31Jan2025 03:21:28.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
 [31Jan2025 03:21:33.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> w
+[31Jan2025 03:22:07.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 03:22:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 03:22:07.528] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 03:23:15.909] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2c20bb35[id=<null>,name=Dalej,properties={},legacy=false] (/127.226.10.246:55149): Took too long to log in
+[31Jan2025 03:23:15.910] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c20bb35[id=<null>,name=Dalej,properties={},legacy=false] (/127.226.10.246:55149) lost connection: Took too long to log in
+[31Jan2025 03:23:15.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jan2025 03:23:50.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:53349] logged in with entity id 2018 at (181.69693673064552, 87.0, 43.17500001192093)
+[31Jan2025 03:23:50.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 03:23:50.386] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 03:23:50.387] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 03:23:52.193] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 03:23:52.194] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 03:24:20.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 03:24:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 03:24:20.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 03:27:26.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:42767] logged in with entity id 2245 at (181.69693673064552, 87.0, 43.17500001192093)
+[31Jan2025 03:27:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 03:27:26.527] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 03:27:26.528] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 03:27:29.550] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 03:27:29.550] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 03:27:56.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 03:27:56.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 03:27:56.529] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 03:29:03.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:46699] logged in with entity id 2505 at (181.69693673064552, 87.0, 43.17500001192093)
+[31Jan2025 03:29:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 03:29:03.804] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[31Jan2025 03:29:03.805] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 03:29:03.958] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
+[31Jan2025 03:29:04.284] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 03:29:04.285] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 03:29:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Man From The Fog
+[31Jan2025 03:29:47.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
+[31Jan2025 03:30:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: The difficulty has been set to Peaceful]
+[31Jan2025 03:31:25.772] [Server thread/INFO] [Easy NPC/]: Opening menu 66765f48-7345-4782-be46-33ff0cdc8596 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Dalej'/2505, l='ServerLevel[world]', x=181.48, y=87.00, z=43.20] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[31Jan2025 03:31:38.283] [Server thread/INFO] [Easy NPC/]: Opening menu 74fce8d3-1f4c-440a-91e2-47edd3e47208 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Dalej'/2505, l='ServerLevel[world]', x=181.48, y=87.00, z=43.20] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[31Jan2025 03:31:49.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[31Jan2025 03:31:53.884] [Server thread/INFO] [Easy NPC/]: Opening menu ca50bf0c-16bc-4b6d-b8ba-b06625e8514f for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Dalej'/2505, l='ServerLevel[world]', x=185.22, y=87.00, z=40.50] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Puerco]}]
+[31Jan2025 03:31:59.691] [Server thread/INFO] [Easy NPC/]: Opening menu 63a05b81-e9b2-4d44-a1c4-98d606e22489 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Dalej'/2505, l='ServerLevel[world]', x=185.22, y=87.00, z=40.50] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Puerco]}]
