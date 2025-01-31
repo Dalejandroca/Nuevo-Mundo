@@ -1112,3 +1112,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 19:47:15.430] [Server thread/INFO] [Jade/]: Syncing config to MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be)
 [31Jan2025 19:47:15.577] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
 [31Jan2025 19:47:15.578] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
+[31Jan2025 19:48:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Tiny Proud Soul]
+[31Jan2025 19:48:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Slash Blade]
+[31Jan2025 19:48:55.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=160, y=86, z=26}
+[31Jan2025 19:48:56.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=160, y=86, z=26}
+[31Jan2025 19:48:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by The Damned
+[31Jan2025 19:48:56.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Condemned To Die]
+[31Jan2025 19:49:02.489] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[31Jan2025 19:49:32.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=159, y=87, z=29}
+[31Jan2025 19:49:33.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=159, y=87, z=29}
+[31Jan2025 19:50:02.658] [Server thread/INFO] [Easy NPC/]: Opening menu 8eac78b3-0e83-4cd5-81d6-220379bfaa0c for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['MandyXMaster687'/2127, l='ServerLevel[world]', x=173.95, y=87.00, z=42.09] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[31Jan2025 19:50:07.561] [Server thread/INFO] [Easy NPC/]: Opening menu 187fd83f-10c6-4862-8570-56aeeec3d671 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['MandyXMaster687'/2127, l='ServerLevel[world]', x=173.73, y=87.00, z=41.66] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[31Jan2025 19:50:28.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=160, y=86, z=28}
+[31Jan2025 19:50:29.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=160, y=86, z=29}
+[31Jan2025 19:50:29.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=159, y=87, z=29}
+[31Jan2025 19:50:29.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=159, y=87, z=29}
+[31Jan2025 19:50:39.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=167, y=87, z=35}
+[31Jan2025 19:50:53.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=159, y=87, z=29}
+[31Jan2025 19:52:00.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jan2025 19:52:00.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster867 creative<--[HERE]
+[31Jan2025 19:52:35.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jan2025 19:52:35.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:  gamemode creative<--[HERE]
+[31Jan2025 19:53:07.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jan2025 19:53:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:  op MandyXMaster687<--[HERE]
+[31Jan2025 19:53:28.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=162, y=87, z=35}
+[31Jan2025 19:53:29.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=162, y=86, z=35}
+[31Jan2025 19:53:29.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=162, y=87, z=35}
+[31Jan2025 19:53:30.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=162, y=86, z=35}
+[31Jan2025 19:53:50.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=162, y=87, z=35}
+[31Jan2025 19:54:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[31Jan2025 19:54:45.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jan2025 19:54:45.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:  gamemode creative MandyXMaster687<--[HERE]
+[31Jan2025 19:55:25.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jan2025 19:55:25.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:  MandyXMaster687<--[HERE]
+[31Jan2025 19:55:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MandyXMaster687 a server operator
+[31Jan2025 19:55:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Set own game mode to Creative Mode]
+[31Jan2025 19:57:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: The difficulty has been set to Peaceful]
+[31Jan2025 19:58:38.213] [Server thread/INFO] [Easy NPC/]: Opening menu 92b9f377-9d37-4814-bb7e-884940b13678 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/2127, l='ServerLevel[world]', x=172.12, y=87.00, z=26.32] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[31Jan2025 19:58:49.046] [Server thread/INFO] [Easy NPC/]: Opening menu 85af0ba6-7e47-44f5-875e-d2cbad4f38eb for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['MandyXMaster687'/2127, l='ServerLevel[world]', x=176.11, y=87.00, z=44.16] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
