@@ -2269,3 +2269,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Jan2025 22:40:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [31Jan2025 22:40:22.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
 [31Jan2025 22:40:55.592] [Server thread/INFO] [Easy NPC/]: Opening menu dbe73d14-e6ac-42d2-b4c6-4ec9baae6aab for npc 4a2ca0b5-c53d-4a97-bcc0-0db6e756f627 and player ServerPlayer['MandyXMaster687'/517, l='ServerLevel[world]', x=247.17, y=87.00, z=65.45] with DialogMenuHandler{displayName=literal{Hombre misterioso}[style={color=#FFFFFF}]}
+[31Jan2025 22:41:49.587] [Server thread/INFO] [Easy NPC/]: Opening menu 62c4b07d-a92f-4ff7-9c9d-33bc736920d3 for npc 40c0d1eb-28f6-42ca-91d4-755cb14e2206 and player ServerPlayer['MandyXMaster687'/517, l='ServerLevel[world]', x=203.16, y=84.23, z=18.88] with DialogMenuHandler{displayName=literal{Elon Mobs}[style={color=#FFFFFF}]}
+[31Jan2025 22:41:51.135] [Server thread/INFO] [Easy NPC/]: Opening menu cd4f58ae-e54f-438c-b51f-d529cb9f1c10 for npc 40c0d1eb-28f6-42ca-91d4-755cb14e2206 and player ServerPlayer['MandyXMaster687'/517, l='ServerLevel[world]', x=203.51, y=84.00, z=19.70] with DialogMenuHandler{displayName=literal{Elon Mobs}[style={color=#FFFFFF}]}
+[31Jan2025 22:41:59.437] [Server thread/INFO] [Easy NPC/]: Opening menu 21a292ab-8d43-45c1-aec0-cc38f3275304 for npc 40c0d1eb-28f6-42ca-91d4-755cb14e2206 and player ServerPlayer['MandyXMaster687'/517, l='ServerLevel[world]', x=207.90, y=85.00, z=21.78] with DialogMenuHandler{displayName=literal{Elon Mobs}[style={color=#FFFFFF}]}
+[31Jan2025 22:42:39.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:49143] logged in with entity id 18318 at (107.22830781981109, 84.0, 77.11419497324931)
+[31Jan2025 22:42:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 22:42:39.734] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 22:42:40.810] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 22:42:40.811] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 22:43:09.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 22:43:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 22:43:09.790] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[31Jan2025 22:44:47.454] [Server thread/INFO] [Easy NPC/]: Opening menu 7937c0a7-2e30-47b8-833a-31bfa42fb840 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['MandyXMaster687'/517, l='ServerLevel[world]', x=183.73, y=84.00, z=1.30] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[31Jan2025 22:46:00.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:35881] logged in with entity id 19179 at (107.22830781981109, 84.0, 77.11419497324931)
+[31Jan2025 22:46:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[31Jan2025 22:46:00.269] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[31Jan2025 22:46:01.257] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[31Jan2025 22:46:01.258] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[31Jan2025 22:46:31.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[31Jan2025 22:46:32.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[31Jan2025 22:46:32.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[31Jan2025 22:47:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Set the weather to clear]
+[31Jan2025 22:50:30.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[31Jan2025 22:50:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[31Jan2025 22:50:30.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
