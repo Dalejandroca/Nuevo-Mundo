@@ -1914,5 +1914,35 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-02-01 03:49:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-01 03:49:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-02-01 03:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-01 03:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-02-01 03:49:33 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

@@ -1233,3 +1233,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Feb2025 03:52:03.047] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
 [01Feb2025 03:52:03.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
 [01Feb2025 03:52:14.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 03:52:15.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 03:52:15.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 03:52:27.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Disconnected
+[01Feb2025 03:52:27.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 03:52:27.377] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 03:52:27.428] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 03:52:28.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@25743bc1[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:58779): Took too long to log in
+[01Feb2025 03:52:28.224] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25743bc1[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:58779) lost connection: Took too long to log in
+[01Feb2025 03:52:28.274] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 03:53:12.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[01Feb2025 03:53:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 03:53:12.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 03:53:42.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@34a95ed6[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:39627): Took too long to log in
+[01Feb2025 03:53:42.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34a95ed6[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:39627) lost connection: Took too long to log in
+[01Feb2025 03:53:42.570] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 03:54:35.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2d802cec[id=<null>,name=Denji,properties={},legacy=false] (/127.37.149.103:44905): Took too long to log in
+[01Feb2025 03:54:35.722] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d802cec[id=<null>,name=Denji,properties={},legacy=false] (/127.37.149.103:44905) lost connection: Took too long to log in
+[01Feb2025 03:54:35.777] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 03:55:13.723] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@24466fe4[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:41433): Took too long to log in
+[01Feb2025 03:55:13.723] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24466fe4[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:41433) lost connection: Took too long to log in
+[01Feb2025 03:55:13.778] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 03:55:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: The difficulty has been set to Peaceful]
+[01Feb2025 03:56:20.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.13.217.90:52061] logged in with entity id 7801 at (174.5, 96.0, 26.5)
+[01Feb2025 03:56:20.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 03:56:20.143] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 03:56:21.272] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 03:56:21.273] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 03:56:27.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e5de9e0[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:39081) lost connection: Timed out
+[01Feb2025 03:56:48.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 03:56:49.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 03:56:49.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 03:56:50.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 03:56:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 03:56:50.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 03:57:24.368] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6be9f69[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:53253): Took too long to log in
+[01Feb2025 03:57:24.368] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6be9f69[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:53253) lost connection: Took too long to log in
+[01Feb2025 03:57:24.415] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 03:58:31.763] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@49ef7e8c[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:41231): Took too long to log in
+[01Feb2025 03:58:31.763] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49ef7e8c[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:41231) lost connection: Took too long to log in
+[01Feb2025 03:58:31.822] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:00:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[01Feb2025 04:00:12.866] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4063a02[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:49785): Took too long to log in
+[01Feb2025 04:00:12.866] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4063a02[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:49785) lost connection: Took too long to log in
+[01Feb2025 04:00:12.918] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:01:30.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 1000]
+[01Feb2025 04:01:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[01Feb2025 04:01:35.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.37.149.103:59229] logged in with entity id 8325 at (174.5, 96.0, 26.5)
+[01Feb2025 04:01:35.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:01:35.387] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:01:37.719] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:01:37.719] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:01:42.417] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7babf28[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:36949): Took too long to log in
+[01Feb2025 04:01:42.418] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7babf28[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:36949) lost connection: Took too long to log in
+[01Feb2025 04:01:42.476] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
