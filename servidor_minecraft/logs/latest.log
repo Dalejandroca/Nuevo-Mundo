@@ -8145,3 +8145,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [01Feb2025 05:43:44.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
 [01Feb2025 05:43:44.948] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
 [01Feb2025 05:43:44.949] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[01Feb2025 05:43:45.755] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@272d4137[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.183.59.139:56973) lost connection: Disconnected
+[01Feb2025 05:43:45.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Set own game mode to Survival Mode]
+[01Feb2025 05:43:45.919] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 43fa0a8f-11f9-475f-a567-b5023cf1d9b4
+[01Feb2025 05:43:45.988] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e9c7d51d-6efb-4ff1-ae01-05a08c4152ee
+[01Feb2025 05:43:45.991] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Nuevo-Mundo/servidor_minecraft/./crash-reports/crash-2025-02-01_05.43.45-server.txt
+[01Feb2025 05:43:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Feb2025 05:43:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Feb2025 05:43:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Feb2025 05:43:46.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Feb2025 05:43:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[01Feb2025 05:43:47.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[01Feb2025 05:43:47.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Feb2025 05:43:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Feb2025 05:43:47.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[01Feb2025 05:43:47.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Feb2025 05:43:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[01Feb2025 05:43:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Feb2025 05:43:47.671] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Feb2025 05:43:47.674] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[01Feb2025 05:43:47.678] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Feb2025 05:43:47.678] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[01Feb2025 05:43:47.716] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
