@@ -2276,5 +2276,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-02-01 03:48:29 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
