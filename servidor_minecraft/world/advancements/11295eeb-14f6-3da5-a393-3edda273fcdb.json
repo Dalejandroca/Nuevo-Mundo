@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "vinery:main/fruits_of_the_field": {
-    "criteria": {
-      "fruits_of_the_field": "2025-02-01 04:10:39 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-02-01 04:10:38 +0000"
@@ -95,15 +89,27 @@
     },
     "done": true
   },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-02-01 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-02-01 04:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2025-02-01 04:10:39 +0000"
     },
     "done": false
   },
-  "legendary_monsters:nether_root": {
+  "apollyon:apollyon": {
     "criteria": {
-      "custom_test_name": "2025-02-01 04:10:38 +0000"
+      "apollyon": "2025-02-01 04:22:20 +0000"
     },
     "done": true
   },

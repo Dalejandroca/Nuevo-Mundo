@@ -1544,3 +1544,84 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Feb2025 04:21:58.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@576a2583[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:45003): Took too long to log in
 [01Feb2025 04:21:58.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@576a2583[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:45003) lost connection: Took too long to log in
 [01Feb2025 04:21:58.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:22:35.690] [Server thread/INFO] [Easy NPC/]: Opening menu 8ff5f419-4984-4455-af02-25eba3aa7ec7 for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=172.25, y=87.00, z=18.89] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:22:36.270] [Server thread/INFO] [Easy NPC/]: Opening menu d6e4cc85-e0bd-4cce-9141-27cea747571d for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=172.24, y=87.00, z=18.89] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:22:40.970] [Server thread/INFO] [Easy NPC/]: Opening menu 28739b1a-9d46-4ad1-934e-f5111b085252 for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=172.59, y=87.00, z=15.41] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:22:55.165] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fe7ff1[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:46019) lost connection: Disconnected
+[01Feb2025 04:23:10.476] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7661bcb5[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:51425) lost connection: Disconnected
+[01Feb2025 04:23:25.772] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cd70922[id=<null>,name=Denji,properties={},legacy=false] (/127.242.89.69:38703) lost connection: Disconnected
+[01Feb2025 04:23:43.117] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a89887f[id=<null>,name=Denji,properties={},legacy=false] (/127.242.89.69:56275) lost connection: Disconnected
+[01Feb2025 04:23:51.121] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b6cd158[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:49527) lost connection: Disconnected
+[01Feb2025 04:24:06.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/119, l='ServerLevel[world]', x=239.53, y=73.00, z=32.83] died, message: 'Farmer hit the ground too hard'
+[01Feb2025 04:24:16.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.216.125.128:46037] logged in with entity id 10302 at (174.5, 96.0, 26.5)
+[01Feb2025 04:24:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:24:16.642] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:24:16.649] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2003ms or 40 ticks
+[01Feb2025 04:24:17.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:24:17.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:24:23.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23b5b3ae[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:35391) lost connection: Disconnected
+[01Feb2025 04:24:43.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:24:44.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:24:44.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:24:46.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:24:46.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:24:46.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:25:01.419] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2109e94a[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:58101): Took too long to log in
+[01Feb2025 04:25:01.420] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2109e94a[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:58101) lost connection: Took too long to log in
+[01Feb2025 04:25:01.466] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:25:05.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=168, y=88, z=18}
+[01Feb2025 04:25:06.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=87, z=21}
+[01Feb2025 04:25:07.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=168, y=88, z=18}
+[01Feb2025 04:25:25.917] [Server thread/INFO] [Easy NPC/]: Opening menu 565fbeb2-6680-4a96-baa8-d4deaf0cf4ad for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.64, y=89.00, z=26.59] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:25:28.717] [Server thread/INFO] [Easy NPC/]: Opening menu f75f757c-0633-4550-9d77-89dd08853485 for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.64, y=89.00, z=26.59] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:26:29.372] [Server thread/INFO] [Easy NPC/]: Opening menu 23502c1e-1529-45d6-8360-33704f049c20 for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=171.61, y=87.00, z=19.69] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:26:35.135] [Server thread/INFO] [Easy NPC/]: Opening menu ba230884-7cfc-4579-bee1-3e8247660f4e for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=171.69, y=87.00, z=19.84] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:26:44.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15c0c06b[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:58807) lost connection: Disconnected
+[01Feb2025 04:27:27.220] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5bb526cc[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:40005): Took too long to log in
+[01Feb2025 04:27:27.220] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bb526cc[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:40005) lost connection: Took too long to log in
+[01Feb2025 04:27:27.264] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:27:41.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=170, y=86, z=19}
+[01Feb2025 04:27:41.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=170, y=86, z=18}
+[01Feb2025 04:27:41.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=171, y=86, z=18}
+[01Feb2025 04:28:03.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.242.89.69:37233] logged in with entity id 10569 at (174.5, 96.0, 26.5)
+[01Feb2025 04:28:03.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:28:03.845] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:28:05.443] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:28:05.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:28:28.120] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@73002612[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:50063): Took too long to log in
+[01Feb2025 04:28:28.120] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73002612[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:50063) lost connection: Took too long to log in
+[01Feb2025 04:28:28.171] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:28:33.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:28:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:28:33.923] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:29:16.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <degok> david parece la mama de todo el grupo
+[01Feb2025 04:29:31.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.216.125.128:52497] logged in with entity id 10781 at (173.63656494183928, 96.0, 26.148805345390954)
+[01Feb2025 04:29:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:29:31.540] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:29:32.821] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:29:32.821] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:29:42.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:29:43.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:29:43.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:29:45.318] [Server thread/INFO] [Easy NPC/]: Opening menu c5be21b3-4bd2-4d12-b1b3-6d80e257b29b for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=177.99, y=87.00, z=16.94] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 04:30:16.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:30:16.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:30:16.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:30:34.720] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4003b7bf[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:46961): Took too long to log in
+[01Feb2025 04:30:34.720] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4003b7bf[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:46961) lost connection: Took too long to log in
+[01Feb2025 04:30:34.768] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:30:57.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.216.125.128:56693] logged in with entity id 10978 at (173.63656494183928, 96.0, 26.148805345390954)
+[01Feb2025 04:30:57.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:30:57.094] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:30:58.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:30:58.223] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:31:03.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:31:04.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:31:04.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:31:39.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Tiny Proud Soul]
+[01Feb2025 04:31:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Slash Blade]
+[01Feb2025 04:31:48.070] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5964406[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:34071) lost connection: Disconnected
+[01Feb2025 04:31:59.222] [Server thread/INFO] [Easy NPC/]: Opening menu 226929fe-711f-4567-aa86-1f4d2b6fdbbf for npc b612fba4-da66-493a-b785-252f154422d1 and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=181.11, y=84.00, z=2.92] with DialogMenuHandler{displayName=literal{Ken}[style={color=#FFFFFF}]}
+[01Feb2025 04:32:29.676] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@78311930[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:51795): Took too long to log in
+[01Feb2025 04:32:29.676] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78311930[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.110.226.95:51795) lost connection: Took too long to log in
+[01Feb2025 04:32:29.724] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
