@@ -107,5 +107,17 @@
     },
     "done": false
   },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-02-01 04:46:26 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-02-01 04:46:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

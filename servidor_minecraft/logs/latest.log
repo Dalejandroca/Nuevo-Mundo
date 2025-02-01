@@ -1732,3 +1732,237 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Feb2025 04:42:41.371] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
 [01Feb2025 04:42:43.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok has made the advancement [Proud Soul]
 [01Feb2025 04:42:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok has made the advancement [Alex's Mobs]
+[01Feb2025 04:42:57.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[01Feb2025 04:42:58.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[01Feb2025 04:42:58.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[01Feb2025 04:43:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok has made the advancement [Forbidden Fruit]
+[01Feb2025 04:43:05.915] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1daa3173[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:38727): Took too long to log in
+[01Feb2025 04:43:05.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1daa3173[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:38727) lost connection: Took too long to log in
+[01Feb2025 04:43:05.969] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:43:52.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.242.89.69:57533] logged in with entity id 13110 at (248.53822980769988, 71.0, 44.45068370144892)
+[01Feb2025 04:43:52.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:43:52.374] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:43:53.573] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:43:53.574] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:44:19.639] [Server thread/INFO] [Easy NPC/]: Opening menu 863b7a14-3219-41c8-93e4-5512ce2149e1 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=184.19, y=84.00, z=1.77] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:44:21.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:44:22.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:44:22.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:44:22.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:44:22.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:44:22.423] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:44:46.768] [Server thread/INFO] [Easy NPC/]: Opening menu 4d38197f-302e-4911-a7b4-ddd8795b0f08 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=184.08, y=84.00, z=0.60] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:44:49.875] [Server thread/INFO] [Easy NPC/]: Opening menu 25775068-0d89-4931-b7fc-d39b65f35603 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['Dalej'/12928, l='ServerLevel[world]', x=184.70, y=84.00, z=2.42] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:44:51.418] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1f045c89[id=<null>,name=morax,properties={},legacy=false] (/127.23.248.129:51831): Took too long to log in
+[01Feb2025 04:44:51.419] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f045c89[id=<null>,name=morax,properties={},legacy=false] (/127.23.248.129:51831) lost connection: Took too long to log in
+[01Feb2025 04:44:51.463] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:44:53.484] [Server thread/INFO] [Easy NPC/]: Opening menu d0c341b3-0f64-40af-a502-5b7f4ba163dc for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=184.70, y=84.00, z=0.81] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:44:54.547] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['Gladius'/4, l='ServerLevel[world]', x=186.50, y=84.00, z=1.50] with [net.minecraft.world.item.trading.MerchantOffer@1e36542e, net.minecraft.world.item.trading.MerchantOffer@73f509fa, net.minecraft.world.item.trading.MerchantOffer@4672ac4b, net.minecraft.world.item.trading.MerchantOffer@5753cb0b, net.minecraft.world.item.trading.MerchantOffer@7b6862eb, net.minecraft.world.item.trading.MerchantOffer@20890ea5, net.minecraft.world.item.trading.MerchantOffer@734aee0b, net.minecraft.world.item.trading.MerchantOffer@3a0868fa, net.minecraft.world.item.trading.MerchantOffer@24f3a6a, net.minecraft.world.item.trading.MerchantOffer@6adbf0a0, net.minecraft.world.item.trading.MerchantOffer@4e456146, net.minecraft.world.item.trading.MerchantOffer@37f39fcc] from ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=184.70, y=84.00, z=0.81], ServerPlayer['Dalej'/12928, l='ServerLevel[world]', x=184.70, y=84.00, z=2.42] is still trading.
+[01Feb2025 04:44:58.740] [Server thread/INFO] [Easy NPC/]: Opening menu 1915b9c8-1a8f-470a-a273-eb557a7901cc for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=184.64, y=84.00, z=1.80] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:44:59.240] [Server thread/INFO] [Easy NPC/]: Opening menu 95993f99-b122-40c3-88f3-f539a4eaa0a9 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=184.64, y=84.00, z=1.80] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:45:00.826] [Server thread/INFO] [Easy NPC/]: Opening menu 6c3e62c0-a4c3-43cc-99b8-d63cada20f28 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=185.14, y=85.00, z=0.02] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:45:14.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has reached the goal [Heart Of The Storm]
+[01Feb2025 04:45:30.566] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3400914[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:45795): Took too long to log in
+[01Feb2025 04:45:30.566] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3400914[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:45795) lost connection: Took too long to log in
+[01Feb2025 04:45:30.619] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:45:40.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.93.117.145:57327] logged in with entity id 13413 at (248.53822980769988, 71.0, 44.45068370144892)
+[01Feb2025 04:45:40.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:45:40.940] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:45:42.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Disconnected
+[01Feb2025 04:45:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:45:42.578] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:45:52.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.23.248.129:41373] logged in with entity id 13547 at (160.5, 95.0, 15.5)
+[01Feb2025 04:45:52.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 04:45:52.124] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 04:45:53.433] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 04:45:53.433] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 04:46:24.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[01Feb2025 04:46:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[01Feb2025 04:46:24.617] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[01Feb2025 04:46:36.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has reached the goal [Feeling Watched]
+[01Feb2025 04:46:52.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[01Feb2025 04:46:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 04:46:52.576] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 04:47:22.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.93.117.145:36837] logged in with entity id 13726 at (248.53822980769988, 71.0, 44.45068370144892)
+[01Feb2025 04:47:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:47:22.243] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:47:22.254] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2026ms or 40 ticks
+[01Feb2025 04:47:23.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:47:23.633] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:47:37.243] [Server thread/INFO] [Easy NPC/]: Opening menu ddc40af7-5d99-4b33-9a25-20dec84be555 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:39.736] [Server thread/INFO] [Easy NPC/]: Opening menu 398278ac-a9ec-4427-ba78-8d68c67e6235 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:40.829] [Server thread/INFO] [Easy NPC/]: Opening menu d8df5c64-4a54-4cca-aede-b80faf71fdd8 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:42.077] [Server thread/INFO] [Easy NPC/]: Opening menu 4abe1c3d-66fa-49ae-b8ec-999be1875795 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:43.281] [Server thread/INFO] [Easy NPC/]: Opening menu 23349232-de16-479b-ae6e-280cfd22bf71 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:44.224] [Server thread/INFO] [Easy NPC/]: Opening menu 4afa2f1a-8b2a-4bf6-8fc4-42e71aee68f0 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:44.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:47:45.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:47:45.973] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:47:47.376] [Server thread/INFO] [Easy NPC/]: Opening menu fe8dc709-5cac-46af-a57c-91e70da8a07b for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.80, y=87.00, z=43.42] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:47.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:44315] logged in with entity id 13809 at (174.9045027878557, 87.0, 23.427265758358203)
+[01Feb2025 04:47:47.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[01Feb2025 04:47:47.896] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[01Feb2025 04:47:49.885] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[01Feb2025 04:47:49.885] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[01Feb2025 04:47:52.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:47:52.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:47:52.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:47:53.583] [Server thread/INFO] [Easy NPC/]: Opening menu ce0466ef-24f5-459b-8991-dfb6d6c47054 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=181.36, y=87.00, z=43.18] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:47:54.122] [Server thread/INFO] [Easy NPC/]: Opening menu 42b199a7-d4a3-4f07-b411-1f275f81b228 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=181.36, y=87.00, z=43.18] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[01Feb2025 04:48:17.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[01Feb2025 04:48:17.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[01Feb2025 04:48:17.967] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[01Feb2025 04:48:31.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.93.117.145:54989] logged in with entity id 13894 at (248.53822980769988, 71.0, 44.45068370144892)
+[01Feb2025 04:48:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:48:31.223] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:48:32.227] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:48:32.227] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:48:37.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:48:38.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:48:38.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:48:39.166] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7828ae8b[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:36763): Took too long to log in
+[01Feb2025 04:48:39.166] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7828ae8b[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.204.129.185:36763) lost connection: Took too long to log in
+[01Feb2025 04:48:39.220] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:49:14.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.247.242.141:54293] logged in with entity id 14046 at (160.5, 95.0, 15.5)
+[01Feb2025 04:49:14.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 04:49:14.344] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 04:49:15.640] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 04:49:15.640] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 04:49:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Set the time to 1000]
+[01Feb2025 04:49:39.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:42135] logged in with entity id 14188 at (174.9045027878557, 87.0, 23.427265758358203)
+[01Feb2025 04:49:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[01Feb2025 04:49:39.302] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[01Feb2025 04:49:39.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[01Feb2025 04:49:39.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[01Feb2025 04:50:10.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[01Feb2025 04:50:10.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 04:50:10.873] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 04:50:11.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[01Feb2025 04:50:12.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[01Feb2025 04:50:12.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[01Feb2025 04:51:05.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <degok> ilegalisimo
+[01Feb2025 04:51:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> s
+[01Feb2025 04:51:31.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok has reached the goal [Heart Of The Storm]
+[01Feb2025 04:52:02.723] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@312c3dcf[id=<null>,name=morax,properties={},legacy=false] (/127.23.248.129:43097): Took too long to log in
+[01Feb2025 04:52:02.723] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@312c3dcf[id=<null>,name=morax,properties={},legacy=false] (/127.23.248.129:43097) lost connection: Took too long to log in
+[01Feb2025 04:52:02.776] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:52:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[01Feb2025 04:52:54.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.23.248.129:42763] logged in with entity id 14912 at (160.5, 95.0, 15.5)
+[01Feb2025 04:52:54.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 04:52:55.036] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 04:52:56.280] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 04:52:56.280] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 04:53:04.024] [Server thread/INFO] [Easy NPC/]: Opening menu ac47b1f3-7012-41f5-ac72-2ee8ecea7f7c for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=185.60, y=85.00, z=0.98] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[01Feb2025 04:53:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[01Feb2025 04:53:55.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[01Feb2025 04:53:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 04:53:55.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 04:54:46.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:54:46.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:54:46.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:54:48.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.247.242.141:40769] logged in with entity id 15342 at (160.5, 95.0, 15.5)
+[01Feb2025 04:54:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 04:54:48.830] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 04:54:50.327] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 04:54:50.327] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 04:55:02.918] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@48808c86[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.183.59.139:43509): Took too long to log in
+[01Feb2025 04:55:02.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48808c86[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.183.59.139:43509) lost connection: Took too long to log in
+[01Feb2025 04:55:02.972] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:55:21.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.158.115.195:34513] logged in with entity id 15420 at (169.05000001192093, 87.0, 18.545606356068948)
+[01Feb2025 04:55:21.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:55:21.944] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:55:22.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:55:22.870] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:55:33.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:55:34.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:55:34.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:55:42.971] [Server thread/INFO] [Easy NPC/]: Opening menu bbd0ec04-b773-40ba-988b-8ac4cd63d7af for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=176.32, y=87.00, z=21.85] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 04:55:48.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[01Feb2025 04:55:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 04:55:48.921] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 04:55:48.981] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:55:49.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=169, y=88, z=22}
+[01Feb2025 04:55:58.371] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3ebb4e58[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.249.116.250:41123): Took too long to log in
+[01Feb2025 04:55:58.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ebb4e58[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.249.116.250:41123) lost connection: Took too long to log in
+[01Feb2025 04:55:58.423] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:56:06.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 04:56:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 04:56:06.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 04:56:19.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[01Feb2025 04:56:19.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[01Feb2025 04:56:19.469] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[01Feb2025 04:56:31.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.158.115.195:48095] logged in with entity id 15460 at (169.05000001192093, 87.0, 18.545606356068948)
+[01Feb2025 04:56:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 04:56:31.125] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 04:56:32.041] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 04:56:32.042] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 04:56:36.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:56:37.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 04:56:37.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 04:58:14.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.247.242.141:34913] logged in with entity id 15776 at (160.5, 95.0, 15.5)
+[01Feb2025 04:58:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 04:58:14.129] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 04:58:15.226] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 04:58:15.226] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 04:58:19.479] [Server thread/INFO] [Easy NPC/]: Opening menu 9a681390-b243-4358-8408-fab18cc1c1ed for npc 4c98d1ca-d658-43b3-987d-14e2963cd9e2 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=247.09, y=71.00, z=23.15] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 04:58:23.675] [Server thread/INFO] [Easy NPC/]: Opening menu 705fd9f7-a3f6-48d9-9dd3-443f70a0fbec for npc 4c98d1ca-d658-43b3-987d-14e2963cd9e2 and player ServerPlayer['Denji'/15460, l='ServerLevel[world]', x=247.18, y=71.00, z=23.09] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 04:58:24.030] [Server thread/INFO] [Easy NPC/]: Opening menu 5552d49d-3a20-4f31-bb71-a69333da50cd for npc 4c98d1ca-d658-43b3-987d-14e2963cd9e2 and player ServerPlayer['Denji'/15460, l='ServerLevel[world]', x=247.18, y=71.00, z=23.09] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 04:58:34.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@eaabe45[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.249.116.250:39839): Took too long to log in
+[01Feb2025 04:58:34.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@eaabe45[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.249.116.250:39839) lost connection: Took too long to log in
+[01Feb2025 04:58:34.222] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 04:58:34.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 04:58:36.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 04:58:36.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[01Feb2025 04:58:44.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[01Feb2025 04:58:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 04:58:44.218] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 04:59:01.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok has made the advancement [Suit Up]
+[01Feb2025 04:59:34.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Suit Up]
+[01Feb2025 05:00:03.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Suit Up]
+[01Feb2025 05:00:06.824] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56fc3aeb[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.249.116.250:57439) lost connection: Disconnected
+[01Feb2025 05:00:45.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.23.248.129:56659] logged in with entity id 16223 at (160.5, 95.0, 15.5)
+[01Feb2025 05:00:45.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 05:00:45.669] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 05:00:47.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 05:00:47.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 05:01:02.483] [Server thread/INFO] [Easy NPC/]: Opening menu 123d568c-631b-4db9-a9c3-4a69c1b4c539 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['Denji'/15460, l='ServerLevel[world]', x=182.25, y=87.00, z=25.29] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:08.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:01:09.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:01:09.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[01Feb2025 05:01:15.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[01Feb2025 05:01:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 05:01:15.668] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 05:01:19.667] [Server thread/INFO] [Easy NPC/]: Opening menu 04a2cba7-bd15-4e19-99a4-9a862bece0d1 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=183.50, y=87.00, z=21.78] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:19.926] [Server thread/INFO] [Easy NPC/]: Opening menu 48be89c6-dcc9-49b7-903a-4566db8ccced for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=181.33, y=87.00, z=22.50] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:21.882] [Server thread/INFO] [Easy NPC/]: Opening menu 79924de7-d541-4f04-b6a0-97d26dae0c6b for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.79, y=87.00, z=21.71] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:22.670] [Server thread/INFO] [Easy NPC/]: Opening menu 8315a0e9-01bf-4797-85b9-48971cb8eb25 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=180.75, y=87.00, z=21.66] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:23.679] [Server thread/INFO] [Easy NPC/]: Opening menu 4491a65a-2a6a-4d2c-b979-051eee3d16b1 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=179.63, y=87.00, z=22.78] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:23.865] [Server thread/INFO] [Easy NPC/]: Opening menu 4f5a81be-4736-4708-9b6a-7358dbab74cc for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['Denji'/15460, l='ServerLevel[world]', x=182.19, y=87.00, z=23.22] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:24.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElPepe49[/127.249.116.250:48851] logged in with entity id 16356 at (171.5, 87.0, 28.5)
+[01Feb2025 05:01:24.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 joined the game
+[01Feb2025 05:01:24.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 has made the advancement [Blade MoveSets]
+[01Feb2025 05:01:24.687] [Server thread/INFO] [Jade/]: Syncing config to ElPepe49 (7b3b0cea-4aef-33a4-b4c3-549e33310f00)
+[01Feb2025 05:01:25.030] [Server thread/INFO] [Easy NPC/]: Opening menu 61ae7fdc-ec09-4f6b-81dc-c54e7e2d2d51 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=179.72, y=87.00, z=22.14] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 has made the advancement [Fruits of the Field]
+[01Feb2025 05:01:26.869] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElPepe49 (18)
+[01Feb2025 05:01:26.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPepe49
+[01Feb2025 05:01:30.921] [Server thread/INFO] [Easy NPC/]: Opening menu 0870b80c-d812-4bd2-bc3e-7a0ef1a3aa06 for npc b32d6a3e-41bd-4f6a-84ec-0e4aee30d15f and player ServerPlayer['Denji'/15460, l='ServerLevel[world]', x=169.97, y=87.00, z=20.06] with DialogMenuHandler{displayName=literal{Shizuku}[style={color=#FFFFFF}]}
+[01Feb2025 05:01:36.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:42057] logged in with entity id 16364 at (173.1779135361759, 87.0, 20.468953712337154)
+[01Feb2025 05:01:36.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[01Feb2025 05:01:36.445] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[01Feb2025 05:01:39.740] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[01Feb2025 05:01:39.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[01Feb2025 05:02:23.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Alex's Mobs]
+[01Feb2025 05:02:29.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPepe49 lost connection: Timed out
+[01Feb2025 05:02:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 left the game
+[01Feb2025 05:02:29.218] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPepe49
+[01Feb2025 05:02:30.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Proud Soul]
+[01Feb2025 05:02:30.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Alex's Mobs]
+[01Feb2025 05:02:33.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.247.242.141:33861] logged in with entity id 16485 at (160.5, 95.0, 15.5)
+[01Feb2025 05:02:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 05:02:33.381] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 05:02:34.894] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 05:02:34.895] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 05:02:35.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[01Feb2025 05:02:36.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[01Feb2025 05:02:36.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
