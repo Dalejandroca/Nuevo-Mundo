@@ -2276,15 +2276,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-01 05:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-01 04:44:21 +0000"
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-01 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/glow_display_case": {
     "criteria": {
       "has_item_frame": "2025-02-01 03:38:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-01 05:02:23 +0000"
     },
     "done": true
   },
@@ -2306,9 +2330,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-01 05:00:34 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_rune_of_the_storm": {
     "criteria": {
       "rune_of_the_storm": "2025-02-01 04:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
     },
     "done": true
   },

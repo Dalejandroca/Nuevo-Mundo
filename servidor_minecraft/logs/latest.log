@@ -1966,3 +1966,135 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Feb2025 05:02:35.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
 [01Feb2025 05:02:36.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
 [01Feb2025 05:02:36.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[01Feb2025 05:02:55.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:02:55.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=88, z=51} BlockPos{x=172, y=86, z=18}
+[01Feb2025 05:02:55.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=88, z=51} BlockPos{x=172, y=86, z=18}
+[01Feb2025 05:02:55.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=88, z=51} BlockPos{x=172, y=86, z=18}
+[01Feb2025 05:02:56.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=88, z=51} BlockPos{x=172, y=86, z=18}
+[01Feb2025 05:02:56.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:02:56.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[01Feb2025 05:02:56.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=88, z=51} BlockPos{x=172, y=86, z=18}
+[01Feb2025 05:03:03.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[01Feb2025 05:03:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 05:03:03.433] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 05:03:06.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=85, z=50} BlockPos{x=174, y=86, z=17}
+[01Feb2025 05:03:06.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=85, z=50} BlockPos{x=174, y=86, z=17}
+[01Feb2025 05:04:04.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElPepe49[/127.183.59.139:45793] logged in with entity id 16596 at (171.5, 87.0, 28.5)
+[01Feb2025 05:04:04.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 joined the game
+[01Feb2025 05:04:04.333] [Server thread/INFO] [Jade/]: Syncing config to ElPepe49 (7b3b0cea-4aef-33a4-b4c3-549e33310f00)
+[01Feb2025 05:04:05.180] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElPepe49 (18)
+[01Feb2025 05:04:05.180] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPepe49
+[01Feb2025 05:04:17.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.23.248.129:38215] logged in with entity id 16631 at (160.5, 95.0, 15.5)
+[01Feb2025 05:04:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 05:04:17.233] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 05:04:18.225] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 05:04:18.225] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 05:04:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Removed 9 item(s) from player Denji]
+[01Feb2025 05:04:36.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:04:37.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:04:37.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[01Feb2025 05:04:47.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[01Feb2025 05:04:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[01Feb2025 05:04:47.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[01Feb2025 05:04:55.772] [Server thread/INFO] [Easy NPC/]: Opening menu 57f73052-740a-4603-9c61-47006d1d60b4 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=175.42, y=87.00, z=40.69] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[01Feb2025 05:04:56.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b3b0cea-4aef-33a4-b4c3-549e33310f00
+[01Feb2025 05:04:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[01Feb2025 05:04:58.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b3b0cea-4aef-33a4-b4c3-549e33310f00
+[01Feb2025 05:04:58.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElPepe49 (7b3b0cea-4aef-33a4-b4c3-549e33310f00) successfully connected to voice chat
+[01Feb2025 05:05:00.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPepe49 lost connection: Disconnected
+[01Feb2025 05:05:00.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 left the game
+[01Feb2025 05:05:00.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPepe49
+[01Feb2025 05:05:09.930] [Server thread/INFO] [Easy NPC/]: Opening menu 5cb11dc7-cce1-4ff8-b8ee-b10972d88554 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=175.84, y=87.00, z=42.58] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[01Feb2025 05:05:11.071] [Server thread/INFO] [Easy NPC/]: Opening menu 6c27d83d-3043-4180-9fbd-e6ac8818d067 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['Denji'/15460, l='ServerLevel[world]', x=175.68, y=87.00, z=40.27] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[01Feb2025 05:05:12.685] [Server thread/INFO] [Easy NPC/]: Opening menu 6b21bee0-42f1-4c10-bda9-22794ff33289 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['Dalej'/16364, l='ServerLevel[world]', x=176.92, y=89.00, z=42.93] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[01Feb2025 05:05:13.623] [Server thread/INFO] [Easy NPC/]: Opening menu f9e9d678-589e-464f-a098-1b3867416fe0 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['MandyXMaster687'/1090, l='ServerLevel[world]', x=174.24, y=87.00, z=40.80] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[01Feb2025 05:05:14.869] [Server thread/INFO] [Easy NPC/]: Opening menu e35388d7-3ea0-48f2-82f5-1c4e644d49d9 for npc c2a64121-e838-42cf-b929-83f2e3cc912b and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=175.90, y=87.00, z=42.82] with DialogMenuHandler{displayName=literal{Lauchering}[style={color=#FFFFFF}]}
+[01Feb2025 05:05:50.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06 timed out
+[01Feb2025 05:05:50.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Denji
+[01Feb2025 05:05:50.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 05:06:02.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[01Feb2025 05:06:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[01Feb2025 05:06:02.228] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[01Feb2025 05:06:04.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.247.242.141:55471] logged in with entity id 16782 at (160.5, 95.0, 15.5)
+[01Feb2025 05:06:04.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[01Feb2025 05:06:04.786] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[01Feb2025 05:06:06.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[01Feb2025 05:06:06.172] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[01Feb2025 05:06:16.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.93.117.145:60809] logged in with entity id 16849 at (175.57705645644782, 87.0, 39.73262736126188)
+[01Feb2025 05:06:16.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[01Feb2025 05:06:16.808] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[01Feb2025 05:06:17.783] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[01Feb2025 05:06:17.783] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[01Feb2025 05:06:21.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:06:22.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[01Feb2025 05:06:22.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[01Feb2025 05:06:24.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 05:06:25.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[01Feb2025 05:06:25.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[01Feb2025 05:07:01.979] [Server thread/INFO] [Easy NPC/]: Opening menu a934a061-d6e1-48ee-ae2e-cd91ac96f611 for npc b4b70583-41ee-46b8-a237-7f388fbe016a and player ServerPlayer['Denji'/16849, l='ServerLevel[world]', x=184.11, y=88.06, z=54.16] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:12.423] [Server thread/INFO] [Easy NPC/]: Opening menu cd85f78e-6c78-4549-8767-24b1014b0c42 for npc b4b70583-41ee-46b8-a237-7f388fbe016a and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=184.94, y=88.06, z=54.45] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:12.929] [Server thread/INFO] [Easy NPC/]: Opening menu abd64537-b85c-4135-8cf3-29f6829038ea for npc b4b70583-41ee-46b8-a237-7f388fbe016a and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=184.94, y=88.06, z=54.45] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:17.521] [Server thread/INFO] [Easy NPC/]: Opening menu 0349ab3d-6a33-49a3-8f35-d720705f213c for npc 4ba98b07-f26e-4c94-b85a-e51631850c5f and player ServerPlayer['degok'/10016, l='ServerLevel[world]', x=185.11, y=88.06, z=54.57] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:17.771] [Server thread/INFO] [Easy NPC/]: Opening menu 3b7e42b1-c38d-4400-886d-b34b1f4acd11 for npc b4b70583-41ee-46b8-a237-7f388fbe016a and player ServerPlayer['Dalej'/16364, l='ServerLevel[world]', x=182.44, y=88.00, z=56.08] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:19.220] [Server thread/INFO] [Easy NPC/]: Opening menu 2854f7e0-497a-425e-9680-91cb480135f4 for npc 4ba98b07-f26e-4c94-b85a-e51631850c5f and player ServerPlayer['Denji'/16849, l='ServerLevel[world]', x=184.12, y=88.06, z=54.73] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:23.872] [Server thread/INFO] [Easy NPC/]: Opening menu 19e7f786-9fb2-4c20-8859-84ae36131352 for npc 4ba98b07-f26e-4c94-b85a-e51631850c5f and player ServerPlayer['Dalej'/16364, l='ServerLevel[world]', x=184.25, y=88.06, z=56.00] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:27.130] [Server thread/INFO] [Easy NPC/]: Opening menu 81f47164-3117-4a86-8162-aa2d4e0bc4df for npc 4ba98b07-f26e-4c94-b85a-e51631850c5f and player ServerPlayer['Dalej'/16364, l='ServerLevel[world]', x=184.71, y=88.06, z=54.94] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:29.381] [Server thread/INFO] [Easy NPC/]: Opening menu b2d5179a-ba7d-42cd-b6c8-9c08deb5ef42 for npc b4b70583-41ee-46b8-a237-7f388fbe016a and player ServerPlayer['Dalej'/16364, l='ServerLevel[world]', x=183.91, y=88.06, z=54.03] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
+[01Feb2025 05:07:35.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElPepe49[/127.249.116.250:48127] logged in with entity id 16938 at (171.5, 87.0, 28.5)
+[01Feb2025 05:07:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 joined the game
+[01Feb2025 05:07:35.731] [Server thread/INFO] [Jade/]: Syncing config to ElPepe49 (7b3b0cea-4aef-33a4-b4c3-549e33310f00)
+[01Feb2025 05:07:36.829] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElPepe49 (18)
+[01Feb2025 05:07:36.829] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPepe49
+[01Feb2025 05:07:40.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> NO SOY FEMBOY
+[01Feb2025 05:07:52.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=173, y=87, z=28}
+[01Feb2025 05:07:57.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <degok> muy tarde
+[01Feb2025 05:08:21.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Tiny Proud Soul]
+[01Feb2025 05:08:21.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Slash Blade]
+[01Feb2025 05:08:32.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPepe49 lost connection: Timed out
+[01Feb2025 05:08:32.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 left the game
+[01Feb2025 05:08:32.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPepe49
+[01Feb2025 05:08:59.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was shattered by Denji
+[01Feb2025 05:09:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Proud Soul]
+[01Feb2025 05:09:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Alex's Mobs]
+[01Feb2025 05:10:22.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=26}
+[01Feb2025 05:10:23.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=22}
+[01Feb2025 05:10:23.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=21}
+[01Feb2025 05:10:23.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=20}
+[01Feb2025 05:10:24.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=19}
+[01Feb2025 05:10:24.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=18}
+[01Feb2025 05:10:24.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=17}
+[01Feb2025 05:10:24.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=16}
+[01Feb2025 05:10:24.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=15}
+[01Feb2025 05:10:25.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=14}
+[01Feb2025 05:10:25.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=13}
+[01Feb2025 05:10:32.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fcb33033-a2d1-3bae-abae-bbc169e822af timed out
+[01Feb2025 05:10:32.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalej
+[01Feb2025 05:10:32.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[01Feb2025 05:10:37.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[01Feb2025 05:10:37.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[01Feb2025 05:10:37.277] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[01Feb2025 05:10:48.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> COMO E EL CHAT DE VO
+[01Feb2025 05:10:49.376] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@56e52a4b[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.183.59.139:40133): Took too long to log in
+[01Feb2025 05:10:49.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56e52a4b[id=<null>,name=ElPepe49,properties={},legacy=false] (/127.183.59.139:40133) lost connection: Took too long to log in
+[01Feb2025 05:10:49.422] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 05:11:40.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElPepe49[/127.249.116.250:34263] logged in with entity id 17564 at (171.5, 87.0, 28.5)
+[01Feb2025 05:11:40.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 joined the game
+[01Feb2025 05:11:40.235] [Server thread/INFO] [Jade/]: Syncing config to ElPepe49 (7b3b0cea-4aef-33a4-b4c3-549e33310f00)
+[01Feb2025 05:11:41.887] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElPepe49 (18)
+[01Feb2025 05:11:41.888] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPepe49
+[01Feb2025 05:11:51.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=86, z=46} BlockPos{x=171, y=86, z=25}
+[01Feb2025 05:12:24.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=169, y=88, z=32}
+[01Feb2025 05:12:29.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:29.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=89, z=26}
+[01Feb2025 05:12:37.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:37.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:37.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:37.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:37.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:39.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:39.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:39.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=90, z=63} BlockPos{x=175, y=88, z=26}
+[01Feb2025 05:12:40.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPepe49 lost connection: Disconnected
+[01Feb2025 05:12:40.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPepe49 left the game
+[01Feb2025 05:12:40.277] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPepe49
+[01Feb2025 05:12:57.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ME BUGUE
