@@ -2270,17 +2270,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+  "securitycraft:recipes/decorations/glow_display_case": {
     "criteria": {
-      "has_pitcher_plant": "2025-02-01 05:15:05 +0000"
+      "has_item_frame": "2025-02-01 03:38:31 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_pitcher_plant": "2025-02-01 05:15:05 +0000"
+      "apple": "2025-02-01 03:48:29 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
@@ -2288,57 +2288,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/spearhead_pennant": {
-    "criteria": {
-      "has_paper": "2025-02-01 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-02-01 05:00:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-01 04:44:21 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/swallowtail_pennant": {
-    "criteria": {
-      "has_paper": "2025-02-01 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-02-01 04:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/glow_display_case": {
-    "criteria": {
-      "has_item_frame": "2025-02-01 03:38:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-01 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-02-01 05:02:23 +0000"
     },
     "done": true
   },
@@ -2360,15 +2312,63 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-02-01 04:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-01 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-01 05:00:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-02-01 05:00:34 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/obtain_rune_of_the_storm": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "rune_of_the_storm": "2025-02-01 04:45:14 +0000"
+      "useitem": "2025-02-01 05:02:23 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
     },
     "done": true
   },
@@ -2384,21 +2384,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2025-02-01 03:48:29 +0000"
-    },
-    "done": false
-  },
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_paper": "2025-02-01 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-01 05:15:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-01 05:15:05 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-02-01 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-02-01 05:21:52 +0000"
     },
     "done": true
   },

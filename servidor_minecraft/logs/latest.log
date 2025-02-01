@@ -4806,3 +4806,49 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [01Feb2025 05:23:01.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: degok lost connection: Disconnected
 [01Feb2025 05:23:01.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok left the game
 [01Feb2025 05:23:01.566] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client degok
+[01Feb2025 05:23:33.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=169, y=88, z=22}
+[01Feb2025 05:23:54.923] [Server thread/INFO] [Easy NPC/]: Opening menu 257b0a31-ca08-45b5-a35d-89e009bf51ad for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['Denji'/16849, l='ServerLevel[world]', x=171.90, y=87.00, z=23.68] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:24:00.374] [Server thread/INFO] [Easy NPC/]: Opening menu 8cdce27c-15ac-4548-be66-9d7a731f78de for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/23398, l='ServerLevel[world]', x=171.39, y=87.00, z=26.04] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:25:20.315] [Server thread/INFO] [Easy NPC/]: Opening menu d0f82290-40bf-453a-8b71-e710775d570e for npc 40c0d1eb-28f6-42ca-91d4-755cb14e2206 and player ServerPlayer['MandyXMaster687'/23398, l='ServerLevel[world]', x=194.64, y=84.00, z=21.28] with DialogMenuHandler{displayName=literal{Elon Mobs}[style={color=#FFFFFF}]}
+[01Feb2025 05:25:28.244] [Server thread/INFO] [Easy NPC/]: Opening menu e2a7fb0f-4301-409f-9d07-d346fdbd6679 for npc 40c0d1eb-28f6-42ca-91d4-755cb14e2206 and player ServerPlayer['Denji'/16849, l='ServerLevel[world]', x=189.53, y=84.00, z=22.33] with DialogMenuHandler{displayName=literal{Elon Mobs}[style={color=#FFFFFF}]}
+[01Feb2025 05:25:29.327] [Server thread/INFO] [Easy NPC/]: Opening menu d3138a5d-20e1-469f-9443-e17c666ee1c5 for npc 40c0d1eb-28f6-42ca-91d4-755cb14e2206 and player ServerPlayer['Denji'/16849, l='ServerLevel[world]', x=189.40, y=84.00, z=23.39] with DialogMenuHandler{displayName=literal{Elon Mobs}[style={color=#FFFFFF}]}
+[01Feb2025 05:26:27.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=84, z=19} BlockPos{x=173, y=86, z=22}
+[01Feb2025 05:27:05.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=91, z=18}
+[01Feb2025 05:27:06.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:27:06.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:27:06.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:27:06.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:27:07.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:27:07.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=91, z=16}
+[01Feb2025 05:27:08.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=80, z=-4} BlockPos{x=171, y=90, z=16}
+[01Feb2025 05:27:17.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: degok[/127.55.255.54:33707] logged in with entity id 24240 at (181.19466926629454, 84.0, -0.6801553120146735)
+[01Feb2025 05:27:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: degok joined the game
+[01Feb2025 05:27:17.078] [Server thread/INFO] [Jade/]: Syncing config to degok (11295eeb-14f6-3da5-a393-3edda273fcdb)
+[01Feb2025 05:27:21.220] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of degok (18)
+[01Feb2025 05:27:21.221] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to degok
+[01Feb2025 05:27:35.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 11295eeb-14f6-3da5-a393-3edda273fcdb
+[01Feb2025 05:27:36.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 11295eeb-14f6-3da5-a393-3edda273fcdb
+[01Feb2025 05:27:36.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player degok (11295eeb-14f6-3da5-a393-3edda273fcdb) successfully connected to voice chat
+[01Feb2025 05:29:23.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <degok> eduardo ese es dabi?
+[01Feb2025 05:29:31.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <degok> tu skin
+[01Feb2025 05:30:33.889] [Server thread/INFO] [Easy NPC/]: Opening menu 6ccbc9a5-26c0-4396-a2ae-80c6e448f726 for npc 1d21ca2a-551c-45ee-9cee-90874644ce82 and player ServerPlayer['MandyXMaster687'/23398, l='ServerLevel[world]', x=178.91, y=87.00, z=23.38] with DialogMenuHandler{displayName=literal{Florencio}[style={color=#FFFFFF}]}
+[01Feb2025 05:30:49.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.226.10.246:36783] logged in with entity id 24555 at (172.22341813588477, 87.0, 46.408090615457986)
+[01Feb2025 05:30:49.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[01Feb2025 05:30:49.270] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[01Feb2025 05:30:56.233] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[01Feb2025 05:30:56.233] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[01Feb2025 05:31:19.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[01Feb2025 05:31:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[01Feb2025 05:31:19.321] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[01Feb2025 05:31:56.187] [Server thread/INFO] [Easy NPC/]: Opening menu 318b838e-876c-492a-a483-925bec51f9f2 for npc 36509362-507a-48bc-a0f4-1c5c93c2fc15 and player ServerPlayer['degok'/24240, l='ServerLevel[world]', x=125.82, y=80.50, z=44.78] with DialogMenuHandler{displayName=literal{Fiona}[style={color=#FFFFFF}]}
+[01Feb2025 05:32:28.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=84, z=19} BlockPos{x=160, y=86, z=37}
+[01Feb2025 05:32:56.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:32:57.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:32:58.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:32:58.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=90, z=18}
+[01Feb2025 05:32:58.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=92, z=20}
+[01Feb2025 05:32:58.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=92, z=20}
+[01Feb2025 05:32:59.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=92, z=20}
+[01Feb2025 05:32:59.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=92, z=20}
+[01Feb2025 05:32:59.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=92, z=20}
+[01Feb2025 05:32:59.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=89, z=50} BlockPos{x=171, y=92, z=20}

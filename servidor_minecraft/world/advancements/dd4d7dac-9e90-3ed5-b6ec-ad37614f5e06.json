@@ -384,6 +384,12 @@
     },
     "done": false
   },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-02-01 05:21:19 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/square_pennant": {
     "criteria": {
       "has_paper": "2025-02-01 05:10:28 +0000"
