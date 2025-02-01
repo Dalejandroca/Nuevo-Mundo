@@ -1914,9 +1914,45 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "vinery:main/forbidden_fruit": {
     "criteria": {
-      "in_water": "2025-02-01 04:11:04 +0000"
+      "apple": "2025-02-01 03:49:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-01 03:49:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-02-01 03:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-01 03:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-02-01 03:49:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-02-01 04:07:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-02-01 04:08:15 +0000"
     },
     "done": true
   },
@@ -1926,9 +1962,51 @@
     },
     "done": true
   },
-  "vinery:main/forbidden_fruit": {
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
-      "apple": "2025-02-01 03:49:30 +0000"
+      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-02-01 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 04:11:04 +0000"
     },
     "done": true
   },
@@ -1941,12 +2019,6 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dirt_slab": {
-    "criteria": {
-      "has_dirt": "2025-02-01 04:08:15 +0000"
     },
     "done": true
   },
@@ -1968,30 +2040,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-02-01 03:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-02-01 04:07:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/spearhead_pennant": {
-    "criteria": {
-      "has_paper": "2025-02-01 04:14:39 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
@@ -2004,27 +2052,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab": {
-    "criteria": {
-      "has_block": "2025-02-01 04:09:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
-    "criteria": {
-      "has_item": "2025-02-01 04:09:43 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/swallowtail_pennant": {
-    "criteria": {
-      "has_paper": "2025-02-01 04:14:39 +0000"
     },
     "done": true
   },
@@ -2037,24 +2067,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-01 04:14:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
-    },
-    "done": true
-  },
-  "slashblade:material/proudsoul": {
-    "criteria": {
-      "BrokenBlade": "2025-02-01 03:49:33 +0000"
     },
     "done": true
   },
@@ -2073,12 +2085,6 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-01 03:49:33 +0000"
     },
     "done": true
   },
@@ -2112,18 +2118,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_stone_bricks": "2025-02-01 04:09:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
@@ -2139,12 +2133,6 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-02-01 04:11:04 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/square_pennant": {
-    "criteria": {
-      "has_paper": "2025-02-01 04:14:39 +0000"
     },
     "done": true
   },
@@ -2166,27 +2154,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 04:11:04 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
     "criteria": {
       "has_paper": "2025-02-01 04:14:39 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
     "criteria": {
-      "apple": "2025-02-01 03:49:33 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs": {
-    "criteria": {
-      "has_block": "2025-02-01 04:09:43 +0000"
+      "has_paper": "2025-02-01 04:14:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "in_water": "2025-02-01 04:11:04 +0000"
+      "has_paper": "2025-02-01 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-01 04:14:39 +0000"
     },
     "done": true
   },

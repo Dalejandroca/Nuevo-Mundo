@@ -103,6 +103,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-02-01 04:39:38 +0000",
       "minecraft:plains": "2025-02-01 03:46:50 +0000"
     },
     "done": false
@@ -110,6 +111,24 @@
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-02-01 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-02-01 04:31:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-02-01 04:31:39 +0000"
+    },
+    "done": true
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-02-01 04:42:16 +0000"
     },
     "done": true
   },
