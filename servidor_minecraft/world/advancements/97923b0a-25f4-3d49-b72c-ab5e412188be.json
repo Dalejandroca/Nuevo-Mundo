@@ -2270,9 +2270,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-01 05:15:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-01 05:15:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-01 04:44:21 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
     },
     "done": true
   },
@@ -2285,6 +2303,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-01 04:44:21 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
     },
     "done": true
   },
@@ -2303,6 +2327,12 @@
   "securitycraft:recipes/decorations/glow_display_case": {
     "criteria": {
       "has_item_frame": "2025-02-01 03:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
     },
     "done": true
   },
@@ -2342,6 +2372,18 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-02-01 04:59:34 +0000"
@@ -2353,6 +2395,12 @@
       "apple": "2025-02-01 03:48:29 +0000"
     },
     "done": false
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_paper": "2025-02-01 05:09:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

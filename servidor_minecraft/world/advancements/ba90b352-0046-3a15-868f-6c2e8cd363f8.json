@@ -150,9 +150,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/glow_display_case": {
+    "criteria": {
+      "has_item_frame": "2025-02-01 05:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-01 05:08:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-02-01 05:09:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-01 05:09:19 +0000"
     },
     "done": true
   },
@@ -161,6 +179,12 @@
       "shrubland": "2025-02-01 05:08:26 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-01 05:09:19 +0000"
+    },
+    "done": true
   },
   "slashblade:root": {
     "criteria": {
